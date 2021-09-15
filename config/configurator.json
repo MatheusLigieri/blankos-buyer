@@ -1,0 +1,16 @@
+{
+    "authentication": {
+        "user": "A64310024a!",
+        "pass": "all.mrtins.q@gmail.com"
+    },
+    "product": {
+        "name": "GREEN BANDANA"
+    },
+    "adressData":{
+        "country": "BRAZIL",
+        "street": "Rua General Azevedo Pimentel",
+        "postalCode": "04821220",
+        "city": "São Paulo",
+        "state": "SP"
+    }
+}
